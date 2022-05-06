@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CoffeeMakerAbstractFactory
+comment1.params=coffeemaker
+comment1.target=CoffeeMakerAbstractFactory\ getFactory(java.lang.String)
+numComments=2
