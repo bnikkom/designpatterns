@@ -1,0 +1,4 @@
+enum DoughnutEnum {
+    ChocolateDoughnut,
+    StrawberryDoughnut;
+}

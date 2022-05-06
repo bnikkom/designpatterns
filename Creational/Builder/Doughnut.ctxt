@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Doughnut
+comment1.params=toppings
+comment1.target=void\ setToppings(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getToppings()
+comment3.params=stuffings
+comment3.target=void\ setStuffing(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getStuffing()
+numComments=5
