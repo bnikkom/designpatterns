@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MoldingPlasticToys
+comment1.params=moldingPattern
+comment1.target=MoldingPlasticToys(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMoldingPattern()
+numComments=3

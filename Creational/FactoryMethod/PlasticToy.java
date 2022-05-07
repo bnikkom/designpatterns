@@ -1,0 +1,3 @@
+interface PlasticToy {
+    MoldingPlasticToys getMoldedToy();
+}
