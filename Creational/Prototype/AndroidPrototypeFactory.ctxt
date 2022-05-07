@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AndroidPrototypeFactory
+comment1.params=version
+comment1.target=AndroidRobot\ getProtoType(java.lang.Integer)
+numComments=2
