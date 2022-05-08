@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SuzoHapp
+comment1.params=address\ amount
+comment1.target=java.lang.Integer\ dispense(java.lang.Integer,\ java.lang.Integer)
+numComments=2

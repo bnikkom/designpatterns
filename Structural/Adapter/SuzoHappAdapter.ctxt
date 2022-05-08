@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SuzoHappAdapter
+comment1.params=
+comment1.target=SuzoHappAdapter()
+comment2.params=address
+comment2.target=void\ setAddress(java.lang.Integer)
+comment3.params=amount
+comment3.target=java.lang.Integer\ dispense(java.lang.Integer)
+numComments=4

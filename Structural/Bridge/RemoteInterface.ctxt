@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RemoteInterface
+comment1.params=
+comment1.target=void\ sendPowerOn()
+comment2.params=
+comment2.target=void\ sendPowerOff()
+numComments=3

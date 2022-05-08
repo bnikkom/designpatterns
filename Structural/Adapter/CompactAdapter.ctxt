@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CompactAdapter
+comment1.params=
+comment1.target=CompactAdapter()
+comment2.params=amount
+comment2.target=java.lang.Integer\ dispense(java.lang.Integer)
+numComments=3

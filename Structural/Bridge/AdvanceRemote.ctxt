@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AdvanceRemote
+comment1.params=device
+comment1.target=AdvanceRemote(DeviceInterface)
+comment2.params=
+comment2.target=void\ sendPowerOn()
+comment3.params=
+comment3.target=void\ sendPowerOff()
+numComments=4
