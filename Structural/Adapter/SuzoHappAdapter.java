@@ -1,14 +1,17 @@
-public class SuzoHappAdapter{
+public class SuzoHappAdapter implements HopperInterface{
     
-    SuzoHapp suzohapp;
+    private SuzoHapp adaptee;  
+    private Integer address;
     
     public SuzoHappAdapter(){
-        suzohapp = new SuzoHapp();        
+       this.adaptee =  new SuzoHapp(); 
     }
-  
-    public void dispense(Integer amount){
-        suzohapp.dispense(3, 3);
+        
+    public void setAddress(Integer address){
+        this.address = address;
     }
     
-
+    public Integer dispense(Integer amount){
+        return this.adaptee.dispense(this.address, amount);
+    }
 }
