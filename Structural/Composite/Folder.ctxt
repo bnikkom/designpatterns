@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Folder
+comment1.params=folderName
+comment1.target=Folder(java.lang.String)
+comment2.params=obj
+comment2.target=void\ add(java.lang.Object)
+comment3.params=
+comment3.target=void\ list()
+numComments=4

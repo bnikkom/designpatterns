@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExtendedMagazine
+comment1.params=equipment
+comment1.target=ExtendedMagazine(EquipmentInterface)
+comment2.params=
+comment2.target=void\ testExtendedMagazine()
+comment3.params=
+comment3.target=void\ equip()
+numComments=4

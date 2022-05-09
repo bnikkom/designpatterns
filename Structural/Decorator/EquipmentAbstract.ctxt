@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EquipmentAbstract
+comment1.params=core
+comment1.target=EquipmentAbstract(EquipmentInterface)
+comment2.params=
+comment2.target=void\ equip()
+comment3.params=scope
+comment3.target=void\ setScope(Scope)
+comment4.params=
+comment4.target=void\ testScope()
+numComments=5

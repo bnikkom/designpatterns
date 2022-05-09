@@ -1,0 +1,5 @@
+interface EquipmentInterface {
+    
+    void equip();
+    
+}
