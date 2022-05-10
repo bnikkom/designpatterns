@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PaymentFacade
+comment1.params=amount\ type
+comment1.target=void\ onPayment(java.lang.Integer,\ java.lang.String)
+numComments=2
