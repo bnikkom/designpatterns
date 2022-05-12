@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ExpensiveServiceInterface
+comment1.params=testNumber
+comment1.target=void\ test(java.lang.Integer)
+numComments=2
