@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=
+comment1.target=void\ logout()
+comment2.params=
+comment2.target=void\ login()
+comment3.params=session
+comment3.target=void\ addObserver(Session)
+numComments=4

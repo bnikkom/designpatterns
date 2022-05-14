@@ -1,0 +1,3 @@
+interface Containter {
+    NumberIteratorInterface getIterator();    
+}

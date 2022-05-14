@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Phone
+comment1.params=mediator
+comment1.target=Phone(Mediator)
+comment2.params=
+comment2.target=void\ chargePhone()
+comment3.params=
+comment3.target=boolean\ chargingStatus()
+numComments=4

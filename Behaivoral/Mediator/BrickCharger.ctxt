@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BrickCharger
+comment1.params=mediator
+comment1.target=BrickCharger(Mediator)
+comment2.params=
+comment2.target=void\ plugIn()
+comment3.params=
+comment3.target=void\ plugOut()
+numComments=4

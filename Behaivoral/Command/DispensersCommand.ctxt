@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DispensersCommand
+comment1.params=dispense
+comment1.target=void\ execute(DispenserInterface)
+numComments=2

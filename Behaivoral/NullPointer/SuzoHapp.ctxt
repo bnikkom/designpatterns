@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuzoHapp
+comment1.params=port
+comment1.target=void\ setPort(int)
+comment2.params=
+comment2.target=void\ connect()
+numComments=3

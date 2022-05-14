@@ -1,0 +1,3 @@
+interface DispenserInterface {
+    void executeDispense();    
+}

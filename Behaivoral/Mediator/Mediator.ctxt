@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mediator
+comment1.params=
+comment1.target=boolean\ getAdapterPlugged()
+comment2.params=adapterPlugged
+comment2.target=void\ setAdapterPlugged(boolean)
+comment3.params=
+comment3.target=boolean\ getPhoneCharge()
+comment4.params=phonePlugged
+comment4.target=void\ setPhoneCharge(boolean)
+numComments=5

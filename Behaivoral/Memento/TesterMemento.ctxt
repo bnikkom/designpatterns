@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TesterMemento
+comment1.params=testValue
+comment1.target=void\ setTestValue(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTestValue()
+numComments=3

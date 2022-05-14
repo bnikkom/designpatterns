@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TesterCareTaker
+comment1.params=testerMemento
+comment1.target=void\ add(TesterMemento)
+comment2.params=index
+comment2.target=TesterMemento\ getMemento(int)
+numComments=3

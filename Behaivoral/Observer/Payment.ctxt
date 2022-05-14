@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Payment
+comment1.params=customer
+comment1.target=Payment(Customer)
+comment2.params=
+comment2.target=void\ clear()
+comment3.params=
+comment3.target=void\ create()
+numComments=4
