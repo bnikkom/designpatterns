@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SubtractAlgo
+comment1.params=a\ b
+comment1.target=void\ solve(int,\ int)
+comment2.params=
+comment2.target=void\ doChecking()
+comment3.params=
+comment3.target=void\ doInvalidation()
+numComments=4

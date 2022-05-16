@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Operation
+comment1.params=visitor
+comment1.target=void\ accept(VisitorInterface)
+comment2.params=
+comment2.target=java.lang.String\ getData()
+comment3.params=data
+comment3.target=void\ setData(java.lang.String)
+comment4.params=
+comment4.target=void\ display()
+numComments=5

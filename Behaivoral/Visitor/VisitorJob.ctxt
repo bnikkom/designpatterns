@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=VisitorJob
+comment1.params=operation
+comment1.target=void\ doExtra(OperationInterface)
+numComments=2

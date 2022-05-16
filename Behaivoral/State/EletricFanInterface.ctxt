@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EletricFanInterface
+comment1.params=fan
+comment1.target=void\ pull(ElectricFan)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=OperationInterface
+comment1.params=visitor
+comment1.target=void\ accept(VisitorInterface)
+numComments=2

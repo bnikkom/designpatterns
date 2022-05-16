@@ -3,12 +3,10 @@ public class ClientTester {
     public static void main(String args[]){
         TesterOrigin    origin    = new TesterOrigin();
         TesterCareTaker caretaker = new TesterCareTaker();
-        
-        
+            
         origin.setTestValue("test1");
         origin.save();        
-        caretaker.add(origin.getState());
-       
+        caretaker.add(origin.getState());       
         origin.setTestValue("test2");
         origin.save();        
         caretaker.add(origin.getState());        
